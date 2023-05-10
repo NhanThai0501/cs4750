@@ -2086,11 +2086,11 @@ List<Meal> RECIPE_MEALS = const [
     'assets/m65.jpg',
     duration: 5,
     ingredients: [
-      '4 teabags'
-          '1 tbsp sugar (optional)'
-          '1-2 lemons, sliced'
-          'mint sprigs, to serve'
-          'ice cubes, to serve'
+      '4 teabags',
+      '1 tbsp sugar (optional)',
+      '1-2 lemons, sliced',
+      'mint sprigs, to serve',
+      'ice cubes, to serve',
     ],
     steps: [
       'Add the teabags, sugar (if using) and half the lemon slices (reserving the rest to serve) to a large heatproof jug or pitcher. ',
