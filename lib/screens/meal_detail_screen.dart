@@ -60,7 +60,7 @@ class MealDetailScreen extends StatelessWidget {
                 padding: const EdgeInsets.all(15),
                 height: 400,
                 width: double.infinity,
-                child: Image.network(
+                child: Image.asset(
                   selectedMeal.imageUrl,
                   fit: BoxFit.cover,
                 ),
