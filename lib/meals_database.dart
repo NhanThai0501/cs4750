@@ -46,8 +46,10 @@ List<Meal> RECIPE_MEALS = const [
     title: 'Baked Eggs with Swiss Chard and Green Olives',
     affordability: Affordability.Affordable,
     complexity: Complexity.Advanced,
+    /*imageUrl:
+    'https://images.themodernproper.com/billowy-turkey/production/posts/2016/Baked-Eggs-with-Swiss-Chard-and-Green-Olives-14.jpg?w=1200&q=82&fm=jpg&fit=crop&dm=1601220209&s=07dba643896ff73c5908c21bb271aaba',*/
     imageUrl:
-    'https://images.themodernproper.com/billowy-turkey/production/posts/2016/Baked-Eggs-with-Swiss-Chard-and-Green-Olives-14.jpg?w=1200&q=82&fm=jpg&fit=crop&dm=1601220209&s=07dba643896ff73c5908c21bb271aaba',
+    'assets/m1.jpg',
     duration: 20,
     ingredients: [
       '4 thick bacon slices, cut into 1-inch pieces, optional',
@@ -89,7 +91,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Intermediate,
     imageUrl:
-    'https://images.themodernproper.com/billowy-turkey/production/posts/2022/SmokyBaconCheddarBreakfastHash_7.jpg?w=1200&q=82&fm=jpg&fit=crop&dm=1663285588&s=ec573438935f06f5305d987719dc3ca2',
+    'assets/m2.jpg',
     duration: 15,
     ingredients: [
       '8 slices thick-cut bacon, diced',
@@ -128,7 +130,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.tasteofhome.com/wp-content/uploads/2018/01/Ham-and-Swiss-Omelet_exps90569_Webcard1306_07_2bC_RMS-8.jpg?fit=700,1024',
+    'assets/m3.jpg',
     duration: 15,
     ingredients: [
       '1 tablespoon butter',
@@ -158,7 +160,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.tasteofhome.com/wp-content/uploads/2018/01/exps100347_HCK153422A08_26_4b-4.jpg?fit=700,1024',
+    'assets/m4.jpg',
     duration: 15,
     ingredients: [
       '1-1/2 cups Southwestern-style egg substitute',
@@ -188,7 +190,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://img.taste.com.au/OLn0szSD/w720-h480-cfill-q80/taste/2016/11/asian-vegetable-and-noodle-omelettes-76278-1.jpeg',
+    'assets/m5.jpeg',
     duration: 20,
     ingredients: [
       '100g dried rice vermicelli noodles',
@@ -225,7 +227,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Intermediate,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2019/06/Japanese-Egg-Sandwich-0631.jpg',
+    'assets/m6.jpg',
     duration: 55,
     ingredients: [
 
@@ -267,7 +269,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Potato-farls-1400x919-d2b86ac8-dd65-4d0f-a102-14ecac9357a4-0-1400x919.jpg',
+    'assets/m7.jpg',
     duration: 25,
     ingredients: [
       '3 medium potatoes, quartered',
@@ -297,7 +299,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/bubble-squeak-potato-cakes-l-43857351-e2b5-41a2-aca6-b199010a8d32-0-1400x919.jpg',
+    'assets/m8.jpg',
     duration: 30,
     ingredients: [
       '750g potatoes, cubed',
@@ -327,7 +329,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.biggerbolderbaking.com/wp-content/uploads/2015/04/Bacon-Cheddar-Waffles-Thumbnail-FINAL.jpg',
+    'assets/m9.jpg',
     duration: 20,
     ingredients: [
       '1 x 1/2 cups (12oz/340g) all-purpose flour',
@@ -368,7 +370,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2020/05/Pol-Roti-Coconut-Roti-6751-1025x1536.jpg',
+    'assets/m10.jpg',
     duration: 40,
     ingredients: [
       '3 x 1/3 cup AP flour Measured by spoon and level method, into a cup',
@@ -412,7 +414,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg',
+    'assets/m11.jpg',
     duration: 15,
     ingredients: [
       'Arugula',
@@ -446,7 +448,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Advanced,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
+    'assets/m12.jpg',
     duration: 240,
     ingredients: [
       '4 Sheets of Gelatine',
@@ -481,7 +483,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg',
+    'assets/m13.jpg',
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
@@ -512,7 +514,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Pricey,
     complexity: Complexity.Intermediate,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg',
+    'assets/m14.jpg',
     duration: 35,
     ingredients: [
       '4 Chicken Breasts',
@@ -546,7 +548,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2023/02/Cauliflower-Curry-1165-1025x1536.jpg',
+    'assets/m15.jpg',
     duration: 60,
     ingredients: [
       '1 lb cauliflower florets + stem 455 g. Whole cauliflower, just over 1 lb / 455 g',
@@ -603,7 +605,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2021/02/Lemongrass-Chick-1588-2-1025x1536.jpg',
+    'assets/m16.jpg',
     duration: 15,
     ingredients: [
       '4 tbsp fish sauce 60 mL',
@@ -642,7 +644,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-The-Flavor-Bender-6066.jpg',
+    'assets/m17.jpg',
     duration: 45,
     ingredients: [
       '2 tbsp mirin',
@@ -694,7 +696,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://www.theflavorbender.com/wp-content/uploads/2018/11/Leftover-Turkey-Sandwich-2606.jpg',
+    'assets/m18.jpg',
     duration: 15,
     ingredients: [
       '3 - 4 servings of leftover roast turkey sliced (about 3- 4 slices per person)',
@@ -734,7 +736,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/ThaiChinese-beefandblackbeanchowmein-He-706c7c45-6882-4478-93be-515856f64d20-0-472x310.jpg',
+    'assets/m19.jpg',
     duration: 30,
     ingredients: [
       '40ml groundnut oil',
@@ -769,7 +771,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-BrazillianBeef-0694fe38-1588-45a2-a389-ade65051fecb-0-1400x919.jpg',
+    'assets/m20.jpg',
     duration: 25,
     ingredients: [
       '1 tbsp olive or vegetable oil',
@@ -808,7 +810,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Advanced,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-Tesco-5For15-13151-TurkeyMeatballsTomatoSpaghetti-f5a675ca-e67b-4344-94c8-a4cf7e45372a-0-1400x919.jpg',
+    'assets/m21.jpg',
     duration: 35,
     ingredients: [
       '1/2 500g pack turkey breast mince, 2% fat',
@@ -842,7 +844,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
+    'assets/m22.jpg',
     duration: 30,
     ingredients: [
       'White and Green Asparagus',
@@ -875,7 +877,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-Tesco-5For15-13151-TurkeyMeatballsTomatoSpaghetti-f5a675ca-e67b-4344-94c8-a4cf7e45372a-0-1400x919.jpg',
+    'assets/m23.jpg',
     duration: 35,
     ingredients: [
       '15ml (1tbsp) sunflower or vegetable oil',
@@ -912,7 +914,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Advanced,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-Slow-cooker-lambs-liver-bacon--onions-ef67b223-7e5d-4543-801d-0b44e47580d4-0-1400x919.jpg',
+    'assets/m24.jpg',
     duration: 500,
     ingredients: [
       '2 tbsp unsalted butter',
@@ -946,7 +948,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Pad-Thai-NoodlesHERO-8321ffc7-8d2a-46cd-a9fc-a5a2e486a4e3-0-472x310-de05704c-4cab-400c-b597-bfe8292095bb-0-472x310.jpg',
+    'assets/m25.jpg',
     duration: 18,
     ingredients: [
       '2 tbsp sunflower oil',
@@ -986,7 +988,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/GINGERED-CHICKEN-NOODLESHERO-c37094cf-3be2-4031-9e15-b77f9ea76bd5-0-472x310.jpg',
+    'assets/m26.jpg',
     duration: 20,
     ingredients: [
       '1 tbsp stir-fry or vegetable oil',
@@ -1024,7 +1026,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/slaw-hero-fffbb9be-27f3-4c8b-81fc-95e67cffa70f-0-472x310.jpg',
+    'assets/m27.jpg',
     duration: 30,
     ingredients: [
       '1/2 red cabbage, cored and thinly shredded',
@@ -1068,7 +1070,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/steak-polenta1995-LH-21bde053-a232-4c4d-ac9f-b0fd69aa3232-0-1400x919.jpg',
+    'assets/m28.jpg',
     duration: 25,
     ingredients: [
       '300g (10oz) cherry tomatoes on the vine',
@@ -1109,7 +1111,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/RFO-1400x919-BeefBaguette-mini-578aa269-e37f-483e-9888-0cd835efd32d-0-1400x919.jpg',
+    'assets/m29.jpg',
     duration: 20,
     ingredients: [
       '1 x 450g beef sirloin steak, cut into very thin slices',
@@ -1152,7 +1154,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/33-MexicanChickenMole-0260b3ec-9b72-48f6-9365-137ba3bdb373-0-1400x919.jpg',
+    'assets/m30.jpg',
     duration: 210,
     ingredients: [
       '4 under-ripe tomatoes',
@@ -1207,7 +1209,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Advanced,
     imageUrl:
-    'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+    'assets/m40.jpg',
     duration: 45,
     ingredients: [
       '1 Teaspoon melted Butter',
@@ -1257,7 +1259,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/RFO-Hero-636x418-ChocCake2-80dd2a90-5582-4604-980a-0c3c8cdbff1a-0-636x418.jpg',
+    'assets/m41.jpg',
     duration: 45,
     ingredients: [
       '220g unsalted butter, softened',
@@ -1306,7 +1308,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/RFO-MedHeroCarousel-963x613-VicSponge-320cdbcb-d75b-4b53-80e8-07a523b7f36d-0-963x613.jpg',
+    'assets/m42.jpg',
     duration: 45,
     ingredients: [
       '160g unsalted butter, softened',
@@ -1345,7 +1347,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/168045-HERO-1b6d4a2d-1d4f-4624-8402-0acfa46b6ba1-0-472x310.jpg',
+    'assets/m43.jpg',
     duration: 220,
     ingredients: [
       '120g digestive biscuits, pulsed into fine crumbs',
@@ -1393,7 +1395,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Choc-fudge-brownies-HERO-ba9918b0-ea35-408b-8ebb-acca143db2e6-0-472x310.jpg',
+    'assets/m44.jpg',
     duration: 210,
     ingredients: [
       '225g plain gluten-free chocolate',
@@ -1432,7 +1434,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/tiramisu-hero-7b6aef55-4be3-4cfc-b28e-0d0feb284f03-0-472x310.jpg',
+    'assets/m45.jpg',
     duration: 210,
     ingredients: [
       '400ml coffee',
@@ -1484,7 +1486,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Intermediate,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-LentilDosa-f157bdd9-3d0a-4ff8-a19e-2b5042355407-0-1400x919.jpg',
+    'assets/m50.jpg',
     duration: 210,
     ingredients: [
       '175g red lentils, soaked overnight in 500ml water',
@@ -1530,7 +1532,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Celeriac-Garlic-and-Thyme-Dauphinoise-hero-4f047bae-192b-46de-86c0-8bdb1b72f24a-0-472x310-6b9b1323-62e3-435b-9471-15f79e7aa549-0-472x310.jpg',
+    'assets/m51.jpg',
     duration: 105,
     ingredients: [
       '875g celeriac',
@@ -1565,7 +1567,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-230307-FRF-OMELETTE-TRF-0161-8-52a04419-8cf5-4690-abc6-00d0b6f669bb-0-1400x919.jpg',
+    'assets/m52.jpg',
     duration: 15,
     ingredients: [
       '4 eggs'
@@ -1608,7 +1610,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/winter-vegetable-laskah-1bef04f9-a39b-44d3-8f6c-28bfbc874d4a-0-472x310.jpg',
+    'assets/m53.jpg',
     duration: 40,
     ingredients: [
       '2 shallots, roughly chopped',
@@ -1667,7 +1669,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-2022-Q1-RecipeGaps-GM-70326-Malpua-ef5d206e-2db8-44d8-b817-e2ca07c1fd28-0-1400x919.jpg',
+    'assets/m54.jpg',
     duration: 60,
     ingredients: [
       '150g plain flour',
@@ -1715,7 +1717,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-2022-Q1-RecipeGaps-GM-70247-DhalSoup-c47c96d2-9d01-431a-a45d-fabad2428ba5-0-1400x919.jpg',
+    'assets/m55.jpg',
     duration: 70,
     ingredients: [
       'olive oil',
@@ -1757,7 +1759,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-VEGIIE-CAESAR-Recipe-c9786917-7606-4e4c-a1d5-5b215d10007d-0-1400x919.jpg',
+    'assets/m56.jpg',
     duration: 20,
     ingredients: [
       '1 x 400g tin of chickpeas',
@@ -1801,7 +1803,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/18-Sweet-Potato-Shoestring-Fries-LGH-3edefbef-cd56-4235-b0fb-b0780871337f-0-1400x919.jpg',
+    'assets/m57.jpg',
     duration: 45,
     ingredients: [
       '2 large sweet potatoes, peeled',
@@ -1830,7 +1832,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Potato-Wedges-V2l-a22b61c6-6fa7-4a0a-8d2e-9aa2d8365d1d-0-1400x919.jpg',
+    'assets/m58.jpg',
     duration: 70,
     ingredients: [
       '1kg (2Ib) medium-sized Désirée potatoes, sliced into wedges (skins on)',
@@ -1871,7 +1873,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Wholemeal-herb-pancakes-LGH-d44cc882-a7ad-40b5-af38-a3397afe2533-0-1400x919.jpg',
+    'assets/m59.jpg',
     duration: 30,
     ingredients: [
       '100g light cream cheese',
@@ -1919,7 +1921,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/Vegan-hot-chocolate-recipe-1400x919-d8405b92-a14c-4105-8fcd-ccf276086cb3-0-1400x919.jpg',
+    'assets/m60.jpg',
     duration: 10,
     ingredients: [
       '250ml oat milk-alternative',
@@ -1950,7 +1952,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/1400x919-Toasted-barley-and-honey-tea-dd11d785-40f2-4a5c-8143-fb38d0be5a00-0-1400x919.jpg',
+    'assets/m61.jpg',
     duration: 10,
     ingredients: [
       '30g pearl barley',
@@ -1981,7 +1983,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/TescoOnline-HotChoc-1400x919-mini-4b9baa22-cc5c-46b0-804f-b08c3071ac12-0-1400x919.jpg',
+    'assets/m62.jpg',
     duration: 10,
     ingredients: [
       '450ml whole milk',
@@ -2018,7 +2020,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/178-Chaispicedtea-LH-c736ac34-f2ea-4b74-9f0d-ced4ac14970c-0-1400x919.jpg',
+    'assets/m63.jpg',
     duration: 10,
     ingredients: [
       '2.5cm (1in) unpeeled ginger, sliced',
@@ -2052,7 +2054,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/iced-latte-30188f7.jpg?quality=90&webp=true&resize=440,400',
+    'assets/m64.png',
     duration: 5,
     ingredients: [
       '2 espresso shots (60ml)',
@@ -2081,7 +2083,7 @@ List<Meal> RECIPE_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
-    'https://realfood.tesco.com/media/images/RFO-1400x919-IcedTea-8e156836-69f4-4433-8bae-c42e174212c1-0-1400x919.jpg',
+    'assets/m65.jpg',
     duration: 5,
     ingredients: [
       '4 teabags'
